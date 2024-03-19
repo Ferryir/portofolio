@@ -85,6 +85,10 @@ a:hover {
   padding: 4.5rem 0 2rem;
 }
 
+.section_container-up {
+  padding: 4.5rem 0 2rem;
+}
+
 /* Scrollbar */
 ::-webkit-scrollbar {
   width: 8px;
@@ -224,6 +228,7 @@ a:hover {
   height: 250px;
 }
 
+
 .card .image-box img {
   height: 100%;
   width: 100%;
@@ -235,6 +240,12 @@ a:hover {
   align-items: center;
   padding: 1rem;
 }
+.card .project-details {
+  display: flex;
+  align-items: center;
+  padding: 1rem;
+}
+
 
 .project-desc p {
   margin-bottom: 13px;
